@@ -1,3 +1,3 @@
 #!/bin/bash
 
-Rscript variable_assignment.R
+Rscript source/variable_assignment.R
