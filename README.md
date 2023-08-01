@@ -7,7 +7,7 @@
 FlapJack is an intuitive bulk RNA seq analysis pipeline run from the command line and sourced R scripts
 
 
-To run, clone the repository into a working directory by running ```git clone [https://github.com/tobylanser/FlackJack.git](https://github.com/tobylanser/FlapJack.git)```.
+To run, clone the repository into a working directory by running ```git clone https://github.com/tobylanser/FlapJack.git```.
 
 If you do not have a reference genome, please download one from the following links.
 
