@@ -18,3 +18,4 @@ qc_report(qc.dir, result.file = paste0(reads_path, "../multi-qc-result"),
 
 
 
+
