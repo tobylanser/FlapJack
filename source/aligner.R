@@ -5,6 +5,7 @@ if (!require("Rsubread", quietly = F))
   BiocManager::install("Rsubread")
 
 library(Rsubread)
+
 source("source/fastqcr.R")
 
 reads <- system.file("extdata", reads_path, package="Rsubread")
