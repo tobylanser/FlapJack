@@ -17,6 +17,7 @@ cat( "\n" )
 cat("We're first going to fun fastQC on your files to determine quality\n")
 source("source/aligner.R")
 
+
 # source_lines("aligner.R", start = 1, end = 10)
 # cat( "\n" )
 # cat( "\n" )
