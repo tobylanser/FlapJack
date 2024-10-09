@@ -2,6 +2,7 @@ if(!require(remotes)) install.packages("remotes")
 if(!require(sack2)) remotes::install_github("wepelham3/sack2")
 library(sack2)
 
+
 cat("\n")
 cat("Welcome to bulk RNA-seq analysis pipeline!\n")
 cat("\n")
